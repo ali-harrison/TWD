@@ -1,6 +1,6 @@
 # Te Wairama Digital - Portfolio MVP
 
-A brutalist portfolio website inspired by MONOLOG studio's aesthetic. Built with Next.js 16, TypeScript, and Tailwind CSS 4.
+A brutalist portfolio website built with Next.js 16, TypeScript, and Tailwind CSS 4.
 
 ## Features
 
