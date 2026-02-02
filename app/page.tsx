@@ -193,7 +193,10 @@ export default function Home() {
             >
               WHAT WE DO_
             </h2>
-            <div className="space-y-6 text-lg md:text-xl" style={{ lineHeight: '1.5em' }}>
+            <div
+              className="space-y-6 text-lg md:text-xl"
+              style={{ lineHeight: '1.5em' }}
+            >
               <p>
                 We are a digital studio based in Aotearoa, specializing in
                 creating meaningful digital experiences that honor culture and
@@ -201,7 +204,7 @@ export default function Home() {
               </p>
               <p className="text-gray">
                 Our work spans brand identity, web development, and digital
-                strategy—always with a focus on craft, clarity, and connection.
+                strategy-always with a focus on craft, clarity, and connection.
               </p>
               <p className="text-gray">
                 We partner with businesses, organizations, and communities to
@@ -256,7 +259,10 @@ export default function Home() {
                             {project.tag}
                           </span>
                         </div>
-                        <p className="text-gray text-sm md:text-base" style={{ lineHeight: '1.5em' }}>
+                        <p
+                          className="text-gray text-sm md:text-base"
+                          style={{ lineHeight: '1.5em' }}
+                        >
                           {project.description}
                         </p>
                       </div>
